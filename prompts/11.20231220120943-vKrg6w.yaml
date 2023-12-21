@@ -1,0 +1,46 @@
+id: 20231220120943-vKrg6w
+type: prompt
+name: "11"
+prompts:
+  - type: message
+    data:
+      id: 20231220143115-0W4sOr
+      role: user
+      content: "112312123"
+  - type: message
+    data:
+      id: 20231208131000-LgzRpn
+      content: Say hello in {{language}}!
+      role: user
+parameters:
+  - id: Y3zHwvrWdUvmWoPeWqbdT
+    key: xz1213
+    label: "12322131234"
+    type: select
+    options:
+      - id: vFNmY44Jiwslnlqa
+        label: ""
+        value: ""
+      - id: 9rbDoYLYJJFXdUB8
+        label: "11"
+        value: ""
+      - id: xS3AVi--NA3Zfu6h
+        label: ""
+        value: ""
+  - id: tg1os63lsSpzlRp9pGxAo
+    key: da
+    label: "21231123123"
+  - label: "123123123"
+    id: Mivyb4563ePMZWdoeUB2T
+    key: asd
+  - label: asd
+    id: uVkkC56gbXKfiW0d4316e
+    key: sad
+  - label: sdasd
+    id: WVgO0k9yz6Djnn6VKQe1s
+    key: das
+model: gpt-3.5-turbo
+createdBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
+updatedBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
+createdAt: 2023-09-30T12:23:04.603Z
+updatedAt: 2023-09-30T12:23:04.603Z

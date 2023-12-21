@@ -1,0 +1,13 @@
+type: function
+id: 20231221105023-nm868a
+createdAt: 2023-12-21T02:50:23.259Z
+updatedAt: 2023-12-21T02:50:23.259Z
+createdBy: ""
+updatedBy: ""
+code: |
+  module.exports.default = async function(args) {
+    console.log(args)
+    return {
+      // result
+    }
+  }
