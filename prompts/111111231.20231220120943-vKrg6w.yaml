@@ -1,6 +1,6 @@
 id: 20231220120943-vKrg6w
 type: prompt
-name: "11111"
+name: "111111231"
 prompts:
   - type: message
     data:
@@ -81,3 +81,5 @@ updatedAt: 2023-09-30T12:23:04.603Z
 maxTokens: 4095
 temperature: 0.9
 topP: 0.9
+description: "123111111"
+tags: []
