@@ -10,3 +10,4 @@ parameters:
 prepareExecutes:
   - id: 20231222110707-bZ6iKz
 prompt: "123123"
+name: image
