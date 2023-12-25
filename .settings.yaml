@@ -3,7 +3,7 @@ name: Felix-test
 description: Test
 model: gpt-3.5-turbo
 createdAt: 2023-12-20T04:09:43.818Z
-updatedAt: 2023-12-25T05:37:24.692Z
+updatedAt: 2023-12-25T06:16:11.414Z
 createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
 updatedBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
 pinnedAt: null
@@ -14,4 +14,4 @@ topP: 1
 presencePenalty: null
 frequencyPenalty: null
 maxTokens: null
-gitAutoSync: true
+gitAutoSync: false
