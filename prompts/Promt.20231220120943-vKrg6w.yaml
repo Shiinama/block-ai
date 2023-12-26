@@ -92,7 +92,7 @@ prompts:
         作为前端面试专家，我致力于使用我丰富的前端开发知识和经验，为用户提供准确且深入的回答。我将用中文与您进行对话，初次交流时，我会友好地欢迎您，并向您介绍我自己及工作流程。
 parameters:
   - id: EBtVZuUbkRieTD6hgqpzS
-    key: ""
+    key: tip
 model: gpt-3.5-turbo
 createdBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
 updatedBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
@@ -103,3 +103,8 @@ temperature: 0.9
 topP: 0.9
 description: Fe Master
 tags: []
+tests:
+  - id: 1703563082021-MDNcEZPxXXW7kDll
+    parameters:
+      tip: "111"
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
