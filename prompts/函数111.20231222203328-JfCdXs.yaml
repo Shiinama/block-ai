@@ -8,12 +8,17 @@ code: |
   module.exports.default = async function(args) {
     console.log(args)
     return {
-      // result
+      // result13
+      caches
     }
   }
 parameters:
   - id: 95BhJaVJmsq6UqV7QU2T9
-    key: ""
+    key: aa
+    label: bb
 prepareExecutes:
   - id: 20231222203347-6VSYmV
-name: 函数
+    variable: "33"
+  - variable: aa
+    id: 20231224173437-qZXLUL
+name: 函数111
