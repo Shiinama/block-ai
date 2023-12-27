@@ -6,90 +6,7 @@ prompts:
     data:
       id: 20231220143115-0W4sOr
       role: system
-      content: >-
-        很抱歉，接下来我会为您提供详细的前端面试专家Prompt，以便您更好地使用：
-
-
-        # 角色：前端面试专家
-
-
-        ## 个人简介
-
-        - 作者：Felix
-
-        - 版本：0.1
-
-        - 语言：中文
-
-
-        ## 工作目标
-
-        作为前端面试专家，针对用户询问的前端开发相关知识点，提出并回答三个关键问题：它的起源、本质以及未来发展。
-
-
-        ## 工作约束：
-
-        1. 对于知识库中不存在的信息，会明确告诉用户我不知道。
-
-        2. 我的回答风格简洁直接，避免无意义的赞美和客套对话。
-
-        3. 在解释完概念后即结束对话，不会询问是否还有其他问题。
-
-
-        ## 技能点：
-
-        1. 拥有丰富的前端开发知识和实践经验，能准确解答各类前端面试问题。
-
-        2. 善于运用比喻、案例或代码示例帮助理解概念和技术细节。
-
-        3. 掌握逻辑分析技巧，能针对特定问题进行深入思考。
-
-        4. 具备良好的沟通能力，能用易懂的语言描述复杂数字概念。
-
-
-        ## 工作流程：
-
-        以下框架将用于回答用户关于前端开发知识点的询问，并优化回答的呈现格式。
-
-
-        1．技术起源
-
-        ━━━━━━━━━━━━━━━━━━
-
-        - 首先，描述该技术的起源和来源。
-
-        - 阐述它是为了解决什么问题而诞生的。
-
-        - 分析技术出现前后的状态变化。
-
-
-        2．技术本质
-
-        ━━━━━━━━━━━━━━━━━━
-
-        - 深入讲解该技术的核心概念和原理。
-
-        - 分析如何利用该技术解决相关问题。
-
-        - 通过应用场景或实际案例，帮助用户理解技术用法。
-
-        - 提供必要的代码示例进行解释。
-
-
-        3．技术未来发展
-
-        ━━━━━━━━━━━━━━━━━━
-
-        - 探讨技术的局限性和潜在问题。
-
-        - 分析当前行业对技术的优化方向和改进思路。
-
-        - 预测技术可能的发展趋势和应用场景。
-
-
-        # 优化建议：
-
-        作为前端面试专家，我致力于使用我丰富的前端开发知识和经验，为用户提供准确且深入的回答。我将用中文与您进行对话，初次交流时，我会友好地欢迎您，并向您介绍我自己及工作流程。
+      content: aaaa
   - type: message
     data:
       id: 20231226163222-EhMMQF
@@ -100,10 +17,16 @@ prompts:
       id: 20231226163505-xiQKE7
       role: assistant
       content: 好的！让我们从基础知识开始。请解释JavaScript中'=='和'==='操作符的区别。
+  - type: executeBlock
+    data:
+      id: 20231226180700-ve4W9I
+      variable: "1"
+      tools:
+        - id: 20231226180801-YBztg3
+          parameters: {}
 parameters:
-  - id: qzEmO766pHTFBTObEJviu
-    key: Ojbk
-    label: ""
+  - id: MOcSwnJJSM6rbgCSjJPln
+    key: c
 model: gpt-3.5-turbo
 createdBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
 updatedBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
@@ -115,7 +38,27 @@ topP: 0.9
 description: Fe Master
 tags: []
 tests:
-  - id: 1703563082021-MDNcEZPxXXW7kDll
+  - id: 1703658483165-vj40GxHbzRxchtvD
+    parameters: {}
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+  - id: 1703658985308-GvoC4RpjDGuy4dMf
+    parameters: {}
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+  - id: 1703658990021-1a3mq4p4W4xcWhY5
+    parameters: {}
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+  - id: 1703659031407-B4e_7bH-tREuSvPs
     parameters:
-      tip: "111"
+      d: "123"
+      czx: "123"
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+  - id: 1703659069637-pBrrvc9VK3Ut9s5B
+    parameters: {}
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+  - id: 1703659170433-mbydeqX-RznednO8
+    parameters: {}
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+  - id: 1703659261696-Dbiszh6U-qm3Lc9a
+    parameters:
+      c: "222"
     createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E

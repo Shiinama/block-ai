@@ -17,8 +17,6 @@ parameters:
     key: aa
     label: bb
 prepareExecutes:
-  - id: 20231222203347-6VSYmV
-    variable: "33"
-  - variable: aa
-    id: 20231224173437-qZXLUL
+  - id: 20231226180745-lEisUR
+  - id: 20231226180754-OnswPn
 name: 函数111
