@@ -4,10 +4,3 @@ createdAt: 2023-12-21T02:50:16.482Z
 updatedAt: 2023-12-21T02:50:16.482Z
 createdBy: ""
 updatedBy: ""
-parameters:
-  - id: ram7a5w4PDnCpGgM9qRDJ
-    key: ""
-prepareExecutes:
-  - id: 20231222110707-bZ6iKz
-prompt: "123123"
-name: image

@@ -1,0 +1,14 @@
+type: api
+id: 20231221105020-zfRJUd
+createdAt: 2023-12-21T02:50:20.917Z
+updatedAt: 2023-12-21T02:50:20.917Z
+createdBy: ""
+updatedBy: ""
+description: "123123"
+name: "123123"
+requestParameters:
+  - id: 20231221114223-njnvwj
+    key: "123222"
+    value: "31231"
+requestMethod: POST
+requestUrl: "123"
