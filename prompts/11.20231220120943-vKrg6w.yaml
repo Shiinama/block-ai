@@ -13,6 +13,9 @@ prompts:
       content: Say hello in {{language}}!
       role: user
 parameters:
+  - label: sdasd
+    id: WVgO0k9yz6Djnn6VKQe1s
+    key: das
   - id: Y3zHwvrWdUvmWoPeWqbdT
     key: xz1213
     label: "12322131234"
@@ -36,9 +39,6 @@ parameters:
   - label: asd
     id: uVkkC56gbXKfiW0d4316e
     key: sad
-  - label: sdasd
-    id: WVgO0k9yz6Djnn6VKQe1s
-    key: das
 model: gpt-3.5-turbo
 createdBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
 updatedBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
