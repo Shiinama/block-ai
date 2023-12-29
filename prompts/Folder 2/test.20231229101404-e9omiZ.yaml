@@ -1,0 +1,13 @@
+id: 20231229101404-e9omiZ
+type: prompt
+createdAt: 2023-12-29T02:14:04.402Z
+updatedAt: 2023-12-29T02:14:04.402Z
+createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+updatedBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+prompts:
+  - type: message
+    data:
+      id: rnrvHFyjdJjpDEztHBoRr
+      role: user
+      content: heelo
+name: test
