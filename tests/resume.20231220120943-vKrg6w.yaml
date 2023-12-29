@@ -12,3 +12,7 @@ tests:
     parameters:
       a: "1111"
     createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+  - id: 1703849542105-fglct7bxBwmEI1Tw
+    parameters:
+      shape: ""
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E

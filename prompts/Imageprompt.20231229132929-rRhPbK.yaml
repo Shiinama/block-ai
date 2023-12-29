@@ -1,0 +1,17 @@
+parameters:
+  - id: BGlZ1xPvFut33BUOmZymG
+    key: shape
+type: prompt
+id: 20231229132929-rRhPbK
+createdAt: 2023-12-29T05:29:29.128Z
+updatedAt: 2023-12-29T05:29:29.128Z
+createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+updatedBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+prompts:
+  - type: message
+    data:
+      id: ZnhEV8MYpzeDbFWLsP9w7
+      role: system
+      content: gen weapon category  {{ shape }} {{ arcblock }}
+name: Imageprompt
+model: gpt-3.5-turbo

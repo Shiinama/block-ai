@@ -1,0 +1,16 @@
+type: image
+id: 20231221105016-Q81fbB
+createdAt: 2023-12-21T02:50:16.482Z
+updatedAt: 2023-12-21T02:50:16.482Z
+createdBy: ""
+updatedBy: ""
+parameters:
+  - id: aUS1Lu0QawypFL598rDuS
+    key: character
+  - id: fgmvwcnGc5jEG28DKCfKP
+    key: weapon
+  - id: mJmKmcuM0NzhZq643gBwp
+    key: color
+prepareExecutes: []
+name: "weapon "
+prompt: "{{ character }} {{ weapon }} {{ color }}"

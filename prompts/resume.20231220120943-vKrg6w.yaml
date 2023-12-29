@@ -83,10 +83,10 @@ prompts:
     data:
       id: 20231229092750-26YVmt
       role: assistant
-      content: 面试官你好？
+      content: 面试官你好？ {{ arcblock }} {{ shape }}
 parameters:
-  - id: iqRRgfP6K7TwxY9s3ZmY5
-    key: a
+  - id: RIIUjCht15JBPGUFZBlby
+    key: shape
 model: gpt-3.5-turbo
 createdBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
 updatedBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
