@@ -1,3 +1,6 @@
-- id: 1703816067685-44HzjSdSUvyfEa3a
-  parameters: {}
-  createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
+type: test
+id: 20231229101404-e9omiZ
+tests:
+  - id: 1703816067685-44HzjSdSUvyfEa3a
+    parameters: {}
+    createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
