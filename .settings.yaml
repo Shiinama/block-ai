@@ -3,7 +3,7 @@ name: "123"
 description: "3123"
 model: gpt-3.5-turbo
 createdAt: 2024-01-17T10:21:54.379Z
-updatedAt: 2024-02-28T09:45:46.905Z
+updatedAt: 2024-02-28T09:45:49.875Z
 createdBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
 updatedBy: z1hfptpNCvPcJwEoCVpgK5iq8dkn7uCad7E
 pinnedAt: null
@@ -14,4 +14,4 @@ topP: 1
 presencePenalty: null
 frequencyPenalty: null
 maxTokens: null
-gitAutoSync: null
+gitAutoSync: true
